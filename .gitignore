@@ -27,14 +27,14 @@ media/
 db.sqlite3
 
 # IDE and editor files
-.vscode/
-.idea/
-*.sublime-project
-*.sublime-workspace
+    .vscode/
+    .idea/
+    *.sublime-project
+    *.sublime-workspace
 
-# OS-specific files
-.DS_Store
-Thumbs.db
+    # OS-specific files
+    .DS_Store
+    Thumbs.db
 
-# Logs
-*.log
+    # Logs
+    *.log
